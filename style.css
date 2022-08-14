@@ -1,0 +1,47 @@
+body {
+    background-color: #FCF8E8;
+}
+
+#heading {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    margin-top: 1em;
+}
+
+#spirits-checks {
+    text-align: center;
+    position: relative;
+    top: 5em;
+}
+
+.spirit-check, .mixer-check {
+    width: 10em;
+    height: 10em;
+}
+
+.spirit-text, .mixer-text {
+    font-family: 'Fugaz One', cursive;
+    line-height: 1px;
+}
+
+#output {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    margin-top: 7em;
+}
+
+#calc-btn {
+    margin-top: 12em;
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    background-color:#FCF8E8;
+    width: 8em;
+    height: 3em;
+}
+
+button:hover {
+    background-color: #94B49F;
+}
